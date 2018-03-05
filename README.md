@@ -1,11 +1,9 @@
-# Portakal Concept Docker configuration
-***
-This is the Portakal Docker installation. Please follow the steps below to get it up and running.
+# Docker Compose for Magento1 Development
 
 ## Project installation
 ***
 _No need to create the database it's created when starting the containers._
-Copy and rename .env.sample to .env and entered your *IP* and *USERNAME*
+Copy and rename .env.sample to .env and fill the contents
 
 ```bash
 cd docker && docker-compose up -d
