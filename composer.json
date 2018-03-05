@@ -1,6 +1,6 @@
 {
     "name": "magefly/docker",
-    "description": "Docker package to run Portakal Magento System",
+    "description": "Docker package to run and develop Magento System",
     "type": "magento-library",
     "authors": [
         {
